@@ -3,7 +3,7 @@
 	/// <summary>
 	/// ストレージの空き容量を返すデフォルトのクラス
 	/// </summary>
-	public sealed class DefaultStorage : IStorage
+	internal sealed class DefaultStorage : IStorage
 	{
 		//================================================================================
 		// 関数
