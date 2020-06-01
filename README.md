@@ -1,11 +1,11 @@
-# Uni Storage
+﻿# Uni Storage
 
 ストレージの空き容量を返すクラス
 
 ## 使用例
 
 ```cs
-using UniStorage;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour

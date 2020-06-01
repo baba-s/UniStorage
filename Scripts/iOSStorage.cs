@@ -2,7 +2,7 @@
 
 using System.Runtime.InteropServices;
 
-namespace UniStorage
+namespace Kogane
 {
 	/// <summary>
 	/// iOS のストレージの空き容量を返すクラス

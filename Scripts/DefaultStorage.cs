@@ -1,4 +1,4 @@
-﻿namespace UniStorage
+﻿namespace Kogane
 {
 	/// <summary>
 	/// ストレージの空き容量を返すデフォルトのクラス

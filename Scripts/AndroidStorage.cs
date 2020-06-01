@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace UniStorage
+namespace Kogane
 {
 	/// <summary>
 	/// Android のストレージの空き容量を返すクラス
